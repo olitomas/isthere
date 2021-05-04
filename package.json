@@ -1,0 +1,26 @@
+{
+  "name": "@olitomas/isthere",
+  "version": "1.0.0",
+  "description": "Simple function that takes in an element and returns % visible in viewport along with boolens for topVisible and bottomVisible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olitomas/isthere.git"
+  },
+  "keywords": [
+    "vieport",
+    "track",
+    "element",
+    "percentage",
+    "visible"
+  ],
+  "author": "Óli Tómas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olitomas/isthere/issues"
+  },
+  "homepage": "https://github.com/olitomas/isthere#readme"
+}
